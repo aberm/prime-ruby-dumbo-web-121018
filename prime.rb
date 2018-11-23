@@ -4,4 +4,5 @@ def prime?(n)
     if n % i == 0
       return false
     end
-    return true
+  end
+  return true
